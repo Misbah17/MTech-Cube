@@ -31,7 +31,7 @@ export default function ContactPage() {
                   href="mailto:misbah@mtechcube.com"
                   className="font-medium text-offwhite hover:text-gold"
                 >
-                  hello@mtechcube.com
+                  misbah@mtechcube.com
                 </a>
               </div>
             </div>
